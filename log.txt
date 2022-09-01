@@ -1,0 +1,90 @@
+Error: Tentativa de login por objeto diferente de cliente
+Info: Cliente - Alana cadastrado com sucesso
+Info: Cliente - Bira cadastrado com sucesso
+Error: Ocorreu um erro Valor inválido para data
+Error: Tentativa de login por objeto diferente de cliente
+Info: Cliente - Alana cadastrado com sucesso
+Info: Cliente - Bira cadastrado com sucesso
+Info: Alana realizou a reserva com sucesso para a data de 15/04/2022 e 16/04/2022
+para o quarto(luxo) de numero: 1, funcionario: Jorge
+Info: Bira realizou a reserva com sucesso para a data de 15/04/2022 e 16/04/2022
+para o quarto(luxo) de numero: 2, funcionario: Jorge
+Info: Cliente - Alana autenticado com sucesso
+Info: Cliente - Alana fez um servico pelo valor de R$50
+Info: Cliente - Alana desocupou o quarto de num 0 dele
+Info: Alana realizou a reserva com sucesso para a data de 18/04/2022 e 19/04/2022
+para o quarto(simples) de numero: 5, funcionario: Mauro
+Info: Cliente - Alana pagou um total de R$150 de diaria
+Error: Tentativa de login por objeto diferente de cliente
+Info: Cliente - Alana cadastrado com sucesso
+Info: Cliente - Bira cadastrado com sucesso
+Info: Alana realizou a reserva com sucesso para a data de 15/04/2022 e 16/04/2022
+para o quarto(luxo) de numero: 1, funcionario: Mauro
+Info: Bira realizou a reserva com sucesso para a data de 15/04/2022 e 16/04/2022
+para o quarto(luxo) de numero: 2, funcionario: Jorge
+Info: Cliente - Alana autenticado com sucesso
+Info: Cliente - Alana fez um servico pelo valor de R$50
+Info: Cliente - Alana desocupou o quarto de num 0 dele
+Info: Alana realizou a reserva com sucesso para a data de 18/04/2022 e 19/04/2022
+para o quarto(simples) de numero: 5, funcionario: Jorge
+Info: Cliente - Alana pagou um total de R$150 de diaria
+Error: Tentativa de login por objeto diferente de cliente
+Info: Cliente - Alana cadastrado com sucesso
+Info: Cliente - Bira cadastrado com sucesso
+Info: Alana realizou a reserva com sucesso para a data de 02/09/2022 e 07/09/2022
+para o quarto(luxo) de numero: 1, funcionario: Jorge
+Info: Bira realizou a reserva com sucesso para a data de 02/09/2022 e 07/09/2022
+para o quarto(luxo) de numero: 2, funcionario: Mauro
+Info: Cliente - Alana pagou um total de R$450 de diaria
+Info: Cliente - Bira pagou um total de R$450 de diaria
+Info: Cliente - Alana autenticado com sucesso
+Info: Cliente - Alana fez um servico pelo valor de R$50
+Info: Cliente - Alana desocupou o quarto de num 0 dele
+Info: Alana realizou a reserva com sucesso para a data de 03/09/2022 e 07/09/2022
+para o quarto(simples) de numero: 5, funcionario: Jorge
+Info: Cliente - Alana pagou um total de R$150 de diaria
+Error: Tentativa de login por objeto diferente de cliente
+Info: Cliente - Alana cadastrado com sucesso
+Info: Cliente - Bira cadastrado com sucesso
+Info: Alana realizou a reserva com sucesso para a data de 02/09/2022 e 07/09/2022
+para o quarto(luxo) de numero: 1, funcionario: Mauro
+Info: Bira realizou a reserva com sucesso para a data de 02/09/2022 e 07/09/2022
+para o quarto(luxo) de numero: 2, funcionario: Jorge
+Info: Cliente - Alana pagou um total de R$450 de diaria
+Info: Cliente - Bira pagou um total de R$450 de diaria
+Info: Cliente - Alana autenticado com sucesso
+Info: Cliente - Alana fez um servico pelo valor de R$50
+Info: Cliente - Alana desocupou o quarto de num 0 dele
+Info: Alana realizou a reserva com sucesso para a data de 07/09/2022 e 14/09/2022
+para o quarto(simples) de numero: 5, funcionario: Jorge
+Info: Cliente - Alana pagou um total de R$150 de diaria
+Error: Tentativa de login por objeto diferente de cliente
+Info: Cliente - Alana cadastrado com sucesso
+Info: Cliente - Bira cadastrado com sucesso
+Info: Alana realizou a reserva com sucesso para a data de 02/09/2022 e 07/09/2022
+para o quarto(luxo) de numero: 1, funcionario: Vilson
+Info: Bira realizou a reserva com sucesso para a data de 02/09/2022 e 07/09/2022
+para o quarto(luxo) de numero: 2, funcionario: Vilson
+Info: Cliente - Alana pagou um total de R$450 de diaria
+Info: Cliente - Bira pagou um total de R$450 de diaria
+Info: Cliente - Alana autenticado com sucesso
+Info: Cliente - Alana fez um servico pelo valor de R$50
+Info: Cliente - Alana desocupou o quarto de num 0 dele
+Info: Alana realizou a reserva com sucesso para a data de 07/09/2022 e 14/09/2022
+para o quarto(simples) de numero: 5, funcionario: Vilson
+Info: Cliente - Alana pagou um total de R$150 de diaria
+Error: Tentativa de login por objeto diferente de cliente
+Info: Cliente - Alana cadastrado com sucesso
+Info: Cliente - Bira cadastrado com sucesso
+Info: Alana realizou a reserva com sucesso para a data de 02/09/2022 e 07/09/2022
+para o quarto(luxo) de numero: 1, funcionario: Leandro
+Info: Bira realizou a reserva com sucesso para a data de 02/09/2022 e 07/09/2022
+para o quarto(luxo) de numero: 2, funcionario: Vilson
+Info: Cliente - Alana pagou um total de R$450 de diaria
+Info: Cliente - Bira pagou um total de R$450 de diaria
+Info: Cliente - Alana autenticado com sucesso
+Info: Cliente - Alana fez um servico pelo valor de R$50
+Info: Cliente - Alana desocupou o quarto de num 0 dele
+Info: Alana realizou a reserva com sucesso para a data de 07/09/2022 e 14/09/2022
+para o quarto(simples) de numero: 5, funcionario: Leandro
+Info: Cliente - Alana pagou um total de R$150 de diaria
